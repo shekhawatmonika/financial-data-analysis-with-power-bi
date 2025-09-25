@@ -38,5 +38,6 @@ Perform comparative analysis across multiple time periods, departments, or busin
 Monitor key financial KPIs such as Gross Margin, Operating Income, and Net Profit in real time.
 
 📂** Repository Contents** 
-/data         → Sample financial datasets (anonymized)
+/data         → Sample financial datasets from kaggle
 /pbix         → Power BI report files
+/pdf          → Pdf report files
